@@ -301,7 +301,7 @@ int main(int argc, char** argv)
     out << ".i " << parInt[".i"] << "\n";
     out << ".o " << parInt[".o"] << "\n";
     out << ".ilb " << parStr[".ilb"] << "\n";
-    out << ".ob " << parInt[".ob"] << "\n";
+    out << ".ob " << parStr[".ob"] << "\n";
     out << ".p " << epi.size() << "\n";
     // write epi into output
     for (i = 0; i < epi.size(); i++)

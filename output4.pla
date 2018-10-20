@@ -1,0 +1,7 @@
+.i 7
+.o 1
+.ilb a b c d e f g
+.ob h
+.p 1
+11--110 1
+.e
